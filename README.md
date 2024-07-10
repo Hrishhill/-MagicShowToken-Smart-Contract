@@ -169,3 +169,5 @@ Testing the Contract
 Conclusion
 
 The `MagicShowToken` smart contract provides a comprehensive solution for managing an in-game token economy on the Avalanche network. It ensures controlled token minting, seamless token transfers, interactive item redemption, transparent balance checking, and efficient token burning, all tailored for an engaging gaming experience.
+**This is the vdo description**
+https://drive.google.com/file/d/1q0EMgTdQjLXIoRW8pHXEfyay3_BbgitB/view?usp=sharing
